@@ -1,22 +1,9 @@
-introduce the study
-
-talk about data cleaning and why we chose to keep x data
-
-data visualization
-
-data analysis
-
-results
-
-recommendations
-
-further possible discussions
-
-conclusion
-
 ## Overview
 
 Making a debut into the movie industry can be expensive, even for a company like Microsoft. The success of the first movie will make an impression on the community and affect the success for future productions. This study aims to provide the information necessary for Microsoft to produce a movie that grabs attention and generate high gross revenue. The journal covers the correlation between budget and gross. Both the length of a movie and type of genre also have an influence to the gross revenue. The business recommendations are backed by using movie information gathered from 1986 to 2016. Suggestions will be made for how much money should be invested into production, how long the movie should be, and which genre should the movie be categorized as.
+
+***
+---
 
 ## Business Understanding
 
@@ -28,6 +15,9 @@ Business questions:
 * What has historically made a successful movie?
 * After development, when should the movie be released?
 
+***
+---
+
 ## Data Understanding
 
 The dataset is sourced from Kaggle which provided information scraped from IMDb from years 1986 to 2016. Browsing the data, it was concluded that the data most useful for Microsoft to generate a successful movie would be: **TODO ADD HEAD OF UNFILTERED DATA**
@@ -37,6 +27,9 @@ The dataset is sourced from Kaggle which provided information scraped from IMDb 
 
 Secondary analysis could be done on the popularity and score of the movies listed, which indirectly leads to more tickets sold. It should be noted that the gross revenue is only considering the USA revenue and does not account for inflation.
 
+***
+---
+
 ## Data Cleaning and Decisions
 
 The dataset from Kaggle was nearly complete for the purpose of the analysis but did have some missing values. The rows that had missing values were removed and the non-relevant columns were dropped from the dataset. Organizing the data showed that some genres would mislead the analysis, so the genre categories with less than ten entries would be removed for analysis. The resulting table would be: **TODO ADD HEAD OF FILTERED DATA**
@@ -45,6 +38,9 @@ Alterations made to raw dataset:
 * Removed rows with missing entries
 * Removed out of scope columns
 * Removed genre categories based on sample size
+
+***
+---
 
 ## Data Visualization
 
@@ -56,6 +52,9 @@ Alterations made to raw dataset:
 
 ![alt text](graphInfo/budgetxgross2.jpg "Budget versus Gross (Line)")
 
+***
+---
+
 ## Data Analysis
 
 As shown in Figure X, there is a positive correlation between budget and gross revenue. Using the 25th and 75th percetile of budget spent to determine this range, a movie spending between \\$10,000,000 to \\$45,000,000 can expect \\$18,926,942 to \\$58,424,237 in return.
@@ -64,13 +63,28 @@ It is natural that movies with long runtimes will deter viewers from watching th
 
 The best performing movies have been animations, action, and adventure movies. As of late, these genres have been the popular genres released and seems to be what attracts the community to the box office. 
 
+***
+---
+
 ## Results
+
+***
+---
 
 ## Recommendations
 
+***
+---
+
 ## Further Possible Disucssions
 
+***
+---
+
 ## Conclusion
+
+***
+---
 
 ## Appendix
 

@@ -90,6 +90,14 @@ The best performing movies have been animations, action, and adventure movies. A
 
 ## Appendix
 
+### Links
+
+Presentation slides: https://docs.google.com/presentation/d/1yVWoNl7zq3NCI69Vr_woc0QGA1PlrXrfpS6YgDYsij0/edit?usp=sharing
+
+Source for dataset: https://www.kaggle.com/danielgrijalvas/movies
+
+### Additional graphs
+
 ![alt text](graphInfo/runtimedist.jpg "Runtime Distribution")
 
 ![alt text](graphInfo/averagegrossbymonth.jpg "Average Gross by Month")

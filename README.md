@@ -44,31 +44,26 @@ Alterations made to raw dataset:
 
 ## Data Visualization
 
-The Runtime vs. Gross graph (Figure X) shows that not many movies over 200 minutes generates much revenue. 
+![alt text](graphs/Gross_by_Genre2.png)
 
-![alt text](graphInfo/runtimexgross.jpg "Runtime versus Gross")
+![alt text](graphs/Gross_by_Genre2.png)
 
-![alt text](graphInfo/averagegrossbygenre.jpg "Average Gross by Genre")
+![alt text](graphs/ProdBudg_Gross.png)
 
-![alt text](graphInfo/budgetxgross.jpg "Budget versus Gross")
+As shown in Figure X, there is a positive correlation between budget and gross revenue. Using the 25th and 75th percetile of budget spent to determine this range, a movie spending between \$10,000,000 to \$45,000,000 can expect \$18,926,942 to \$58,424,237 in return.
 
-![alt text](graphInfo/budgetxgross2.jpg "Budget versus Gross (Line)")
+![alt text](graphs/adventure_distribution.png)
+
+![alt text](graphs/animation_distribution.png)
 
 ***
 ---
 
 ## Data Analysis
 
-As shown in Figure X, there is a positive correlation between budget and gross revenue. Using the 25th and 75th percetile of budget spent to determine this range, a movie spending between \$10,000,000 to \$45,000,000 can expect \$18,926,942 to \$58,424,237 in return.
-
 It is natural that movies with long runtimes will deter viewers from watching the movie. Movies that are too short though historically do not generate much revenue. The ideal length a movie should be is anywhere between 130-180 minutes. Movies with the genre being a biography or drama may still attract viewers with long runtimes while still generating high revenue.
 
 The best performing movies have been animations, action, and adventure movies. As of late, these genres have been the popular genres released and seems to be what attracts the community to the box office. 
-
-***
----
-
-## Results
 
 ***
 ---
@@ -87,6 +82,8 @@ Animations seem to be the popular genre released. To keep with the times, Micros
 ---
 
 ## Further Possible Disucssions
+
+Additional studies could be conducted to create further recommendations. With more recent data, the movie industry could be assessed with the impact of COVID-19. Conducting this study might show that the box office is not the best place to release a movie. Rather an online streaming service may be the platform to release a movie. If developing a platform for Microsoft's film releases, another study could be conducted to see the benefits of introducing indie studioes exclusive to the platform.
 
 ***
 ---
@@ -107,5 +104,7 @@ Source for dataset: https://www.kaggle.com/danielgrijalvas/movies
 ### Additional graphs
 
 ![alt text](graphInfo/runtimedist.jpg "Runtime Distribution")
+
+![alt text](graphs/RuntimeDistribution.png)
 
 ![alt text](graphInfo/averagegrossbymonth.jpg "Average Gross by Month")

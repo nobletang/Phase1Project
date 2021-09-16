@@ -75,6 +75,14 @@ The best performing movies have been animations, action, and adventure movies. A
 
 ## Recommendations
 
+### Short-term Priorities
+
+Use the provided analytics to produce a movie that falls under the animation, adventure, or action genre. Prepare to budget roughly \$150 million for production and marketing. For release of the movie, it would be best to launch the movie during the early summer or holiday season. Using this skeleton for the first movie will better position itself to be a success in the box office.
+
+### Long-term Priorities
+
+Animations seem to be the popular genre released. To keep with the times, Microsoft should set their long-term goals to developing a robust animation studio. It will be in their best interest to keep primary releases as animated films with possibility to explore live action in the future. The focus for the future should be making a name for itself in the film industry as a studio that creates adventurous, action-packed animations.
+
 ***
 ---
 

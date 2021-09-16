@@ -20,7 +20,7 @@ Business questions:
 
 ## Data Understanding
 
-The dataset is sourced from Kaggle which provided information scraped from IMDb from years 1986 to 2016. Browsing the data, it was concluded that the data most useful for Microsoft to generate a successful movie would be: **TODO ADD HEAD OF UNFILTERED DATA**
+The dataset is sourced from Kaggle which provided information scraped from IMDb from years 1986 to 2016. Browsing the data, it was concluded that the data most useful for Microsoft to generate a successful movie would be: 
 * Budget spent
 * Runtime (duration of movie)
 * Genre
@@ -32,7 +32,7 @@ Secondary analysis could be done on the popularity and score of the movies liste
 
 ## Data Cleaning and Decisions
 
-The dataset from Kaggle was nearly complete for the purpose of the analysis but did have some missing values. The rows that had missing values were removed and the non-relevant columns were dropped from the dataset. Organizing the data showed that some genres would mislead the analysis, so the genre categories with less than ten entries would be removed for analysis. The resulting table would be: **TODO ADD HEAD OF FILTERED DATA**
+The dataset from Kaggle was nearly complete for the purpose of the analysis but did have some missing values. The rows that had missing values were removed and the non-relevant columns were dropped from the dataset. Organizing the data showed that some genres would mislead the analysis, so the genre categories with less than ten entries would be removed for analysis.
 
 Alterations made to raw dataset:
 * Removed rows with missing entries
@@ -43,6 +43,8 @@ Alterations made to raw dataset:
 ---
 
 ## Data Visualization
+
+The Runtime vs. Gross graph (Figure X) shows that not many movies over 200 minutes generates much revenue. 
 
 ![alt text](graphInfo/runtimexgross.jpg "Runtime versus Gross")
 
@@ -57,7 +59,7 @@ Alterations made to raw dataset:
 
 ## Data Analysis
 
-As shown in Figure X, there is a positive correlation between budget and gross revenue. Using the 25th and 75th percetile of budget spent to determine this range, a movie spending between \\$10,000,000 to \\$45,000,000 can expect \\$18,926,942 to \\$58,424,237 in return.
+As shown in Figure X, there is a positive correlation between budget and gross revenue. Using the 25th and 75th percetile of budget spent to determine this range, a movie spending between \$10,000,000 to \$45,000,000 can expect \$18,926,942 to \$58,424,237 in return.
 
 It is natural that movies with long runtimes will deter viewers from watching the movie. Movies that are too short though historically do not generate much revenue. The ideal length a movie should be is anywhere between 130-180 minutes. Movies with the genre being a biography or drama may still attract viewers with long runtimes while still generating high revenue.
 

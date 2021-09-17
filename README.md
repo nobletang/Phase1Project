@@ -9,7 +9,7 @@ Making a debut into the movie industry can be expensive, even for a company like
 
 ## Business Understanding
 
-Microsoft wants to create a sucessful movie studio and need to make a strong impression to the industry. The first step to create a strong impression is to release a movie that takes the box office by storm. The success of movies are measured by critque, popularity, and gross revenue generated.
+Microsoft wants to create a successful movie studio and need to make a strong impression to the industry. The first step to create a strong impression is to release a movie that takes the box office by storm. The success of movies are measured by critique, popularity, and gross revenue generated.
 
 Business questions:
 
@@ -82,7 +82,7 @@ Animations seem to be the popular genre released. To keep with the times, Micros
 
 ## Further Possible Disucssions
 
-Additional studies could be conducted to create further recommendations. With more recent data, the movie industry could be assessed with the impact of COVID-19. Conducting this study might show that the box office is not the best place to release a movie. Rather an online streaming service may be the platform to release a movie. If developing a platform for Microsoft's film releases, another study could be conducted to see the benefits of introducing indie studioes exclusive to the platform.
+Additional studies could be conducted to create further recommendations. With more recent data, the movie industry could be assessed with the impact of COVID-19. Conducting this study might show that the box office is not the best place to release a movie. Rather an online streaming service may be the platform to release a movie. If developing a platform for Microsoft's film releases, another study could be conducted to see the benefits of introducing indie studios exclusive to the platform.
 
 ***
 ---

@@ -54,7 +54,7 @@ The best performing movies have been animations, action, and adventure movies. A
 
 There is a positive correlation with the amount of money spent on a movie and the returns it receives.
 
-![alt text](graphs/Animation_regplot.png)
+![alt text](graphs/animation_regressionplot.jpg)
 
 It is natural that movies with long runtimes will deter viewers from watching the movie. Movies that are too short though historically do not generate much revenue. There seems to be a sweetspot for the runtime length of an animated film, being 91 minutes.
 
